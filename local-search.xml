@@ -29,12 +29,18 @@
   
   
   <entry>
-    <title>待办事项</title>
-    <link href="/2025/05/20/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9/"/>
-    <url>/2025/05/20/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9/</url>
+    <title>Blog 配置日志</title>
+    <link href="/2025/05/20/Blog%20%E9%85%8D%E7%BD%AE%E6%97%A5%E5%BF%97/"/>
+    <url>/2025/05/20/Blog%20%E9%85%8D%E7%BD%AE%E6%97%A5%E5%BF%97/</url>
     
-    <content type="html"><![CDATA[<p>待办事项：</p><ol><li>开放评论区</li><li>favicon（已实现）</li><li>图床</li><li>收录进Google、Baidu</li><li>远程操控</li></ol>]]></content>
+    <content type="html"><![CDATA[<h4>2025-05-19 </h4><p>已替换默认 favicon</p><h4>2025-05-31</h4><ol><li>已替换默认 banner image</li><li>使用 Google search console 将本网址收录入Google</li><li>使用 twikoo 评论插件</li></ol>]]></content>
     
+    
+    <categories>
+      
+      <category>折腾</category>
+      
+    </categories>
     
     
   </entry>
